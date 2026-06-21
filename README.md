@@ -4,6 +4,12 @@ A local-first, installable personal knowledge app inspired by the progressive �
 
 The aim is not to reproduce GBrain immediately. It is to build the smallest useful second brain first, then add retrieval and automation only when they solve a demonstrated problem.
 
+## Original inspiration and credit
+
+This project’s starting point and five-level framing come from Yarchi’s original article, [“How to Build an AI Second Brain With Claude and Obsidian That Gets Smarter Every Day (Full Guide)”](https://x.com/i/article/2067725011880697856), and the [companion X post](https://x.com/undefinedKi/status/2068779566479679800). Full credit for that guide and its progression from simple routing to an autonomous brain belongs to [Yarchi (`@undefinedKi`)](https://x.com/undefinedKi).
+
+[GBrain](https://github.com/garrytan/gbrain), created by Garry Tan, is credited separately as the open-source implementation examined by the article and as a source of architectural ideas for later stages of this project.
+
 ## Product principles
 
 - **Local first:** notes remain usable without a network connection.
@@ -64,7 +70,8 @@ Planning. See [PLAN.md](./PLAN.md) for milestones, decisions, risks, and accepta
 
 ## References
 
-- [The X post that frames the five progressive levels](https://x.com/undefinedKi/status/2068779566479679800)
+- [Yarchi’s original “How to Build an AI Second Brain…” article](https://x.com/i/article/2067725011880697856)
+- [The companion X post framing the five progressive levels](https://x.com/undefinedKi/status/2068779566479679800)
 - [GBrain repository](https://github.com/garrytan/gbrain)
 - [Progressive Web Apps on MDN](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 - [Obsidian-flavoured Markdown](https://help.obsidian.md/obsidian-flavored-markdown)
